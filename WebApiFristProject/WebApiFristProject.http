@@ -1,0 +1,6 @@
+@WebApiFristProject_HostAddress = http://localhost:5200
+
+GET {{WebApiFristProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
